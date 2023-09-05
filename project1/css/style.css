@@ -139,3 +139,43 @@ body{
     padding-top: 10px;
     margin-right:15px;
 }
+.middle_section{
+    padding:85px 130px 30px;
+}
+.list_top{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 55px;
+}
+.list_top_item{
+    background-color: #f9fafa;
+    /* max-width: 100%; */
+    width: 400px;
+    border-radius: 5px;
+    /* padding: 65px;  */
+    padding:55px 25px 15px 25px;
+    text-align: center;
+    margin-right:30px ;
+}
+.title_shop{
+    text-align: left;
+    margin-top:30px;
+}
+.title1{
+    font-size: 18px;
+}
+.shop{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px 0;
+}
+.shop span{
+    color: #6bb7be;
+}
+.link3{
+    color: #6bb7be;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
