@@ -163,6 +163,7 @@ body{
 }
 .title1{
     font-size: 18px;
+    text-align: left;
 }
 .shop{
     display: flex;
@@ -177,5 +178,20 @@ body{
     text-decoration: none;
     text-transform: uppercase;
     font-size: 15px;
+}
+.list_bottom{
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+.list_bottom_item{
+    background-color: #f9fafa;
+    /* max-width: 100%; */
+    width: 400px;
+    border-radius: 5px;
+    /* padding: 65px;  */
+    padding:55px 25px 15px 25px;
+    text-align: center;
+    margin-right:30px ;
 }
 
